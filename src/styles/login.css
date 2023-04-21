@@ -1,0 +1,27 @@
+.login-Page{
+    background-color: yellow;
+    height:100vh;
+    width: 100%;
+}
+.text-center{
+    
+    margin-top: 200px!important;
+}
+
+.img{
+    margin-top: 220px!important;
+    width: 500px;
+    height: 500px;
+}
+.head{
+    font-family: cursive;
+}
+
+.btn{
+    width: 80px;
+}
+form input{
+    width: 300px;
+
+}
+
