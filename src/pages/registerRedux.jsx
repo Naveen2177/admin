@@ -2,10 +2,9 @@ import React, { useState, useReducer } from 'react'
 import { ToastContainer, toast } from 'react-toastify'
 import { Link, json, useNavigate } from 'react-router-dom'
 import IMG from '../img/register.jpg'
-// import 'react-toastify/dist/react-toastify.'
 
 import { useDispatch, useSelector } from 'react-redux'
-// import { error } from 'react-toastify-redux'
+
 
 const RegisterRedux = () => {
 
@@ -34,7 +33,6 @@ const RegisterRedux = () => {
     }
     else if (password !== confirmPassword){
        alert('Password does not match')
-      // document.write('Password does not match')
     }
 
   }

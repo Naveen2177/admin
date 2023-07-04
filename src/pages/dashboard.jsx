@@ -8,12 +8,6 @@ const Dashboard = () => {
   // const entity = useSelector(state => state)
   // console.log('hello entity', entity )
 
-
-
-
-
-
-
   return (
     <>
  

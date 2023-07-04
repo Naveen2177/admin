@@ -4,8 +4,8 @@ import Menu from '../components/menu'
 
 const Admin = () => {
   return (
-    <div className='d-flex px-2'>
-      <Menu className=''/>
+    <div className=' px-2'>
+      <Menu/>
       <div>
         <Outlet/>
       </div>
